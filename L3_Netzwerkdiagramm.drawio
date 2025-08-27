@@ -156,11 +156,11 @@
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-18" value="&lt;div&gt;Firewall Fritzbox 7490&amp;nbsp;&lt;/div&gt;&lt;div&gt;IP -&amp;gt; WAN 192.168.1.2&lt;/div&gt;&lt;div&gt;IP -&amp;gt; LAN 10.1.1.1/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="706.5" y="220" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r_Pz0K5PyHvMV0sPQ83M-20" value="&lt;div&gt;Switch 12 Port&lt;/div&gt;&lt;div&gt;IP 10.1.1.101/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="755" y="420" width="110" height="60" as="geometry" />
+        <mxCell id="r_Pz0K5PyHvMV0sPQ83M-20" value="&lt;div&gt;Switch 12 Port&lt;/div&gt;&lt;div&gt;Cisco Catalyst 9000 Compact Switch 12 p&lt;/div&gt;&lt;div&gt;IP 10.1.1.101/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="415" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r_Pz0K5PyHvMV0sPQ83M-21" value="&lt;div&gt;Switch 12 Port&lt;/div&gt;&lt;div&gt;WAN IP 10.1.1.101/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="540" width="140" height="60" as="geometry" />
+        <mxCell id="r_Pz0K5PyHvMV0sPQ83M-21" value="&lt;div&gt;Switch 12 Port&lt;/div&gt;&lt;div&gt;Cisco Catalyst 9000 Compact Switch 12 p&lt;/div&gt;&lt;div&gt;WAN IP 10.1.1.102/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="535" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r_Pz0K5PyHvMV0sPQ83M-14" target="r_Pz0K5PyHvMV0sPQ83M-15">
           <mxGeometry relative="1" as="geometry" />
