@@ -128,10 +128,10 @@
           <mxGeometry x="598.5" y="150" width="93" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-3" value="" style="shape=mxgraph.cisco.modems_and_phones.ip_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="500" width="90" height="50" as="geometry" />
+          <mxGeometry x="283" y="540" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-4" value="" style="shape=mxgraph.cisco.computers_and_peripherals.workstation;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="83" height="62" as="geometry" />
+          <mxGeometry x="290" y="420" width="83" height="62" as="geometry" />
         </mxCell>
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-6" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="594.5" y="340" width="101" height="50" as="geometry" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-11" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="590.5" y="470" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Pz0K5PyHvMV0sPQ83M-13" value="&lt;div&gt;Modem Swisscom&lt;/div&gt;&lt;div&gt;WAN IP 212.212.212.212&lt;/div&gt;&lt;div&gt;MAC XX:XX:XX:XX:XX:XX&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="30" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
