@@ -123,7 +123,7 @@
           <mxGeometry x="603.5" y="425" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-11" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="595.5" y="545" width="101" height="50" as="geometry" />
+          <mxGeometry x="599.5" y="560" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-13" value="&lt;div&gt;Router Swisscom&lt;/div&gt;&lt;div&gt;WAN IP 212.212.212.212&lt;/div&gt;&lt;div&gt;LAN IP 192.168.1.1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="701.5" y="90" width="160" height="70" as="geometry" />
