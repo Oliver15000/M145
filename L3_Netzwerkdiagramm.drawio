@@ -145,7 +145,7 @@
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-15" value="" style="shape=mxgraph.cisco.security.firewall;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="631.5" y="225" width="45" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="r_Pz0K5PyHvMV0sPQ83M-18" value="&lt;div&gt;Firewall Fritzbox 7490&amp;nbsp;&lt;/div&gt;&lt;div&gt;IP -&amp;gt; WAN 192.168.1.2&lt;/div&gt;&lt;div&gt;IP 10.1.1.1/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="r_Pz0K5PyHvMV0sPQ83M-18" value="&lt;div&gt;Firewall Fritzbox 7490&amp;nbsp;&lt;/div&gt;&lt;div&gt;IP -&amp;gt; WAN 192.168.1.2&lt;/div&gt;&lt;div&gt;IP -&amp;gt; LAN 10.1.1.1/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="706.5" y="220" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r_Pz0K5PyHvMV0sPQ83M-20" value="&lt;div&gt;Switch 12 Port&lt;/div&gt;&lt;div&gt;IP 10.1.1.101/24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
