@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.0.3">
+  <diagram name="Seite-1" id="GnCJpU4yLMZozYWiTS43">
+    <mxGraphModel dx="1426" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KV94ZgmuVEpyB_Q3AgJ1-1" target="KV94ZgmuVEpyB_Q3AgJ1-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="480" />
+              <mxPoint x="440" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-1" value="" style="shape=mxgraph.cisco.servers.directory_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="520" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-2" value="&lt;div&gt;hostname: M182-win-server&lt;/div&gt;&lt;div&gt;IP: 10.182.1.50/24&lt;/div&gt;&lt;div&gt;GW: 10.182.1.1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="610" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-3" value="" style="shape=mxgraph.cisco.security.firewall;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="210" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-4" value="&lt;div&gt;hostname: pfsense&lt;/div&gt;&lt;div&gt;LAN IP: 10.182.1.1/24&lt;/div&gt;&lt;div&gt;WAN IP: 172.20.182.103/24&lt;/div&gt;&lt;div&gt;GW: 172.20.182.1&lt;/div&gt;&lt;div&gt;DHCP Range: 10.182.1.101 - 199&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="350" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-6" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="520" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-7" value="&lt;div&gt;hostname: M182-win-client&lt;/div&gt;&lt;div&gt;IP: DHCP&lt;/div&gt;&lt;div&gt;GW: DHCP&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="610" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-9" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="515" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-10" value="&lt;div&gt;hostname: M182-ubuntu&lt;/div&gt;&lt;div&gt;IP: 10.182.1.52/24&lt;/div&gt;&lt;div&gt;GW: 10.182.1.1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="610" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-11" value="&lt;div&gt;hostname: M182-kali&lt;/div&gt;&lt;div&gt;IP: 10.182.1.51/24&lt;/div&gt;&lt;div&gt;GW: 10.182.1.1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="610" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KV94ZgmuVEpyB_Q3AgJ1-6" target="KV94ZgmuVEpyB_Q3AgJ1-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="480" />
+              <mxPoint x="440" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KV94ZgmuVEpyB_Q3AgJ1-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="517.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="590" y="480" />
+              <mxPoint x="440" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KV94ZgmuVEpyB_Q3AgJ1-9" target="KV94ZgmuVEpyB_Q3AgJ1-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="480" />
+              <mxPoint x="440" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-16" value="" style="shape=mxgraph.cisco.servers.standard_host;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="559" y="515" width="62" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KV94ZgmuVEpyB_Q3AgJ1-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.03999999999996" y="115.03999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="165" />
+              <mxPoint x="450" y="165" />
+              <mxPoint x="450" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-20" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="40" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-21" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="49.5" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-22" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="59" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-23" value="&lt;div&gt;VPN Devices&lt;/div&gt;&lt;div&gt;172.19.22.0/24&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="595" y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KV94ZgmuVEpyB_Q3AgJ1-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-25" value="" style="shape=mxgraph.cisco.storage.cloud;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="27" width="186" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="KV94ZgmuVEpyB_Q3AgJ1-26" value="INTERNET" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="353" y="65" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
